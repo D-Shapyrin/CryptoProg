@@ -1,0 +1,6 @@
+
+cipher/txt.enc
+cipher/txt.iv
+cipher/txt.key
+hash/encryptedFile.bin.dec
+hash/text
